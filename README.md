@@ -1,3 +1,3 @@
 # calculator
 
-A new Flutter project.
+This is a simple calculator app made using Flutter framework. You can copy, edit, add any customization. 
