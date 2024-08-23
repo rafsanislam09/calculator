@@ -9,4 +9,5 @@ To run, simply run:
     flutter run
 
 To build for multiplatform, run `flutter build <As the platform and format you want> --debug`
+
 This app has platform support for Windows, Linux, macOS, iOS, Android and Web.
